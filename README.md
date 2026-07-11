@@ -74,19 +74,7 @@ Currently, I am working at the **Digital University Center, University of Engine
 | [Advanced Trello Web](https://github.com/dinhthitramy/base-advanced-trello-web) | ReactJS, Node.js, MongoDB, MUI Material | Task and team management web application inspired by Trello, supporting drag-and-drop workflows for personal and collaborative task organization. |
 | [Readable](https://github.com/bachxoai/readable-fe) | ReactJS, Spring Boot, MySQL, Ant Design | Reading support platform designed for people with color blindness, helping users read articles and documents more comfortably while managing saved content. |
 | [MagicPost](https://github.com/ShiroHien/MagicPost) | ReactJS, Node.js, MongoDB, MUI Material | Delivery management system for shipping operations, package tracking, and transaction management across multiple branches. |
-| Timetabling Optimization Research | Python, MILP, Gurobi | Research project on the timetabling problem using a two-stage MILP model with Gurobi, focusing on feasibility construction and solution-quality optimization. |
-
-## GitHub Journey
-
-Most of my recent commits are on a university GitLab account, so public GitHub activity does not fully represent my current coding work.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinhthitramy&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Tra My's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinhthitramy&theme=github-compact&hide_border=true&area=true" alt="Tra My's GitHub activity graph" />
-</p>
+| [Timetabling Optimization Research](https://github.com/dinhthitramy/timetable-MILP-vs-Gurobi) | Python, MILP, Gurobi | Research project on the timetabling problem using a two-stage MILP model with Gurobi, focusing on feasibility construction and solution-quality optimization. |
 
 ## Education
 
