@@ -77,10 +77,10 @@ I am currently working at the **Digital University Center, University of Enginee
 
 | Project | Tech Stack | Description |
 | --- | --- | --- |
+| [Timetabling Optimization Research](https://github.com/dinhthitramy/timetable-MILP-vs-Gurobi) | Python, MILP, Gurobi | Research project on the timetabling problem using a two-stage MILP model with Gurobi, focusing on feasibility construction and solution-quality optimization. |
 | [Advanced Trello Web](https://github.com/dinhthitramy/base-advanced-trello-web) | ReactJS, Node.js, MongoDB, MUI Material | Task and team management web application inspired by Trello, supporting drag-and-drop workflows for personal and collaborative task organization. |
 | [Readable](https://github.com/bachxoai/readable-fe) | ReactJS, Spring Boot, MySQL, Ant Design | Reading support platform designed for people with color blindness, helping users read articles and documents more comfortably while managing saved content. |
 | [MagicPost](https://github.com/ShiroHien/MagicPost) | ReactJS, Node.js, MongoDB, MUI Material | Delivery management system for shipping operations, package tracking, and transaction management across multiple branches. |
-| [Timetabling Optimization Research](https://github.com/dinhthitramy/timetable-MILP-vs-Gurobi) | Python, MILP, Gurobi | Research project on the timetabling problem using a two-stage MILP model with Gurobi, focusing on feasibility construction and solution-quality optimization. |
 
 ## Education
 
@@ -105,7 +105,7 @@ Specialized in Informatics, 2018 - 2021
 | --- | --- |
 | Vietnamese | Native |
 | English | B2 |
-| Chinese | HSK4 |
+| Chinese | HSK3 |
 
 ---
 
