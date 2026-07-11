@@ -105,7 +105,7 @@ Specialized in Informatics, 2018 - 2021
 | --- | --- |
 | Vietnamese | Native |
 | English | B2 |
-| Chinese | HSK3 |
+| Chinese | HSK4 |
 
 ---
 
