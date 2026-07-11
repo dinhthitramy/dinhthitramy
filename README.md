@@ -22,7 +22,7 @@
 
 I am a Computer Science student at the University of Engineering and Technology, Vietnam National University, Hanoi. My interests sit between full-stack product development, data engineering, database systems, and optimization problems.
 
-Currently, I am working at the **Digital University Center, University of Engineering and Technology, Vietnam National University, Hanoi**. A large part of my recent development activity is on an institutional GitLab account using my university email, so this GitHub profile focuses on selected public projects and portfolio work.
+Currently, I am working at the **Digital University Center, University of Engineering and Technology, Vietnam National University, Hanoi**.
 
 ## Current Focus
 
