@@ -26,7 +26,6 @@ I am currently working at the **Digital University Center, University of Enginee
 
 ## Current Focus
 
-- Building practical web systems with ReactJS, Next.js, Spring Boot, Node.js, MySQL, and MongoDB.
 - Working with data processing and analysis workflows using Python and Apache Spark.
 - Exploring applied AI and AI-assisted development for faster prototyping, debugging, documentation, and code review.
 - Researching the timetabling problem with a two-stage MILP model and the commercial Gurobi solver.
