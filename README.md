@@ -22,6 +22,8 @@
 
 I am a Computer Science student at the University of Engineering and Technology, Vietnam National University, Hanoi. My interests sit between full-stack product development, data engineering, database systems, and optimization problems.
 
+Full-stack developer with interests in applied AI, optimization, and AI-assisted software engineering.
+
 Currently, I am working at the **Digital University Center, University of Engineering and Technology, Vietnam National University, Hanoi**.
 
 ## Current Focus
@@ -65,6 +67,12 @@ Currently, I am working at the **Digital University Center, University of Engine
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/AI--assisted%20Development-0F172A?style=for-the-badge&logoColor=white" alt="AI-assisted Development" />
 </p>
 
 ## Featured Projects
