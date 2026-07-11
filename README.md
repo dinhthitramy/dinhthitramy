@@ -20,16 +20,15 @@
 
 ## About Me
 
-I am a Computer Science student at the University of Engineering and Technology, Vietnam National University, Hanoi. My interests sit between full-stack product development, data engineering, database systems, and optimization problems.
+I am a Computer Science student at the University of Engineering and Technology, Vietnam National University, Hanoi, with a focus on full-stack development, data engineering, and applied optimization.
 
-Full-stack developer with interests in applied AI, optimization, and AI-assisted software engineering.
-
-Currently, I am working at the **Digital University Center, University of Engineering and Technology, Vietnam National University, Hanoi**.
+I am currently working at the **Digital University Center, University of Engineering and Technology, Vietnam National University, Hanoi**. My interests include applied AI, mathematical optimization, decision-support systems, and AI-assisted software engineering.
 
 ## Current Focus
 
 - Building practical web systems with ReactJS, Next.js, Spring Boot, Node.js, MySQL, and MongoDB.
 - Working with data processing and analysis workflows using Python and Apache Spark.
+- Exploring applied AI and AI-assisted development for faster prototyping, debugging, documentation, and code review.
 - Researching the timetabling problem with a two-stage MILP model and the commercial Gurobi solver.
 - Improving software engineering skills through real-world university and research projects.
 
