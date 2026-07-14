@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dinh Thi Tra My</h1>
 
 <p align="center">
-  <b>Full-Stack Development | Data Engineering | Mathematical Optimization</b>
+  <b>Full-Stack Development | Data Engineering | Algorithm Optimization</b>
 </p>
 
 <p align="center">
@@ -16,23 +16,23 @@
   </a>
 </p>
 
----
-
 ## About Me
+- Computer Science student at the UET-VNU.
+- Working at the Digital University Center.
+- Love Music, Manga, Outside Activity and Fork Dance.
 
-I am a Computer Science student at the University of Engineering and Technology, Vietnam National University, Hanoi, with a focus on full-stack development, data engineering, and applied optimization.
 
-I am currently working at the **Digital University Center, University of Engineering and Technology, Vietnam National University, Hanoi**. My interests include applied AI, mathematical optimization, decision-support systems, and AI-assisted software engineering.
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
 ## Current Focus
 
-- Working with data processing and analysis workflows using Python and Apache Spark.
-- Exploring applied AI and AI-assisted development for faster prototyping, debugging, documentation, and code review.
 - Researching the timetabling problem with a two-stage MILP model and the commercial Gurobi solver.
 - Improving software engineering skills through real-world university and research projects.
+- Study English and Madarin(Chinese).
 
 ## Tech Stack
-
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -72,6 +72,22 @@ I am currently working at the **Digital University Center, University of Enginee
   <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/AI--assisted%20Development-0F172A?style=for-the-badge&logoColor=white" alt="AI-assisted Development" />
 </p>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <a href="https://www.youtube.com/watch?v=Av04XfLtAcU">
+        <img src="assets/meme.png" alt="Favorite song meme" width="90%" />
+      </a>
+      <p align="center">
+        <i>"If we could be reborn, I would like to play with you again."</i>
+      </p>
+      <p align="center">
+        <a href="https://www.youtube.com/watch?v=Av04XfLtAcU">
+          <b>- The Servant of Evil -</b>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Featured Projects
 
@@ -82,6 +98,25 @@ I am currently working at the **Digital University Center, University of Enginee
 | [Readable](https://github.com/bachxoai/readable-fe) | ReactJS, Spring Boot, MySQL, Ant Design | Reading support platform designed for people with color blindness, helping users read articles and documents more comfortably while managing saved content. |
 | [MagicPost](https://github.com/ShiroHien/MagicPost) | ReactJS, Node.js, MongoDB, MUI Material | Delivery management system for shipping operations, package tracking, and transaction management across multiple branches. |
 
+---
+
+<table>
+  <tr>
+    <td width="40%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=Av04XfLtAcU">
+        <img src="assets/cute.png" alt="Cute education image" width="90%" />
+      </a>
+      <p align="center">
+        <i>"I will protect you, so just be somewhere, smiling. "</i>
+      </p>
+      <p align="center">
+        <a href="https://www.youtube.com/watch?v=Av04XfLtAcU">
+          <b>- The Servant of Evil -</b>
+        </a>
+      </p>
+    </td>
+    <td width="60%" valign="top">
+
 ## Education
 
 **University of Engineering and Technology, Vietnam National University, Hanoi**  
@@ -90,7 +125,6 @@ GPA: 3.69/4.0
 
 **Le Hong Phong High School for the Gifted, Nam Dinh**  
 Specialized in Informatics, 2018 - 2021
-
 ## Activities and Achievements
 
 - 2nd Prize, SheCodes Hackathon 2022.
@@ -106,9 +140,13 @@ Specialized in Informatics, 2018 - 2021
 | Vietnamese | Native |
 | English | B2 |
 | Chinese | HSK4 |
+  </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <i>Building useful software, learning from real systems, and turning data into better decisions.</i>
+  <i>"人生的 十字路口， 是 那些 看似 渺小 却 足以 改变 命运 的 决定。~</i>
+  <i>Có những lựa chọn dù nhỏ bé nhưng lại thay đổi cả vận mệnh. "</i>
 </p>
