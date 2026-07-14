@@ -22,15 +22,15 @@
 - Love Music, Manga, Outside Activity and Fork Dance.
 
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
 ## Current Focus
 
 - Researching the timetabling problem with a two-stage MILP model and the commercial Gurobi solver.
 - Improving software engineering skills through real-world university and research projects.
 - Study English and Madarin(Chinese).
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
 ## Tech Stack
 <p>
@@ -132,6 +132,9 @@ Specialized in Informatics, 2018 - 2021
 - First Prize, Olympic Competition for High School Students, 2018 - 2019.
 - Bronze Medal, Informatics Open Competition, Northern Coastal and Red River Delta Specialized High Schools, 2019.
 - Third Prize, Provincial Excellent Student Competition in Informatics, 2020 - 2021.
+  </td>
+  </tr>
+</table>
 
 ## Languages
 
@@ -140,9 +143,6 @@ Specialized in Informatics, 2018 - 2021
 | Vietnamese | Native |
 | English | B2 |
 | Chinese | HSK4 |
-  </td>
-  </tr>
-</table>
 
 ---
 
